@@ -19,7 +19,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 
 ### **Cloud & DevOps**  
 - **Kubernetes | Docker | Azure Pipelines**  
-- **Kafka | Dayforce ConfigData Management**  
+- **Kafka | Dapr**  
 - **CI/CD | SonarQube |**  
 
 ---
