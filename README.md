@@ -1,4 +1,4 @@
-# Hi, I'm Roman 👋  
+# Hi, I'm Roman  
 
 Software Engineer 
 
@@ -11,16 +11,15 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ## Tech Stack & Tools  
 
 ### **Frontend**  
-- **Vue | Angular | React**  
-- **Microfrontends | SignalR for real-time updates**  
+- **Vue | Angular | React**
 
 ### **Backend**  
-- **.NET 4 - 8 | Python | Php | Nodejs** 
+- **.NET | Python | Php | Nodejs** 
 
 ### **Cloud & DevOps**  
 - **Kubernetes | Docker | Azure Pipelines**  
 - **Kafka | Dapr**  
-- **CI/CD | SonarQube |**  
+- **CI/CD | SonarQube**  
 
 ---
 
