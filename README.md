@@ -8,7 +8,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 
 ---
 
-## 🔧 Tech Stack & Tools  
+## Tech Stack & Tools  
 
 ### **Frontend**  
 - **Vue | Angular | React**  
@@ -24,12 +24,9 @@ Passionate about **software architecture, clean code, and automation**, I also m
 
 ---
 
-## 📈 GitHub Stats  
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k7roman&show_icons=true&theme=radical)  
+## GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k7roman&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=k7roman&theme=dark)  
 
 ---
 
@@ -40,8 +37,8 @@ Check out my repositories below for more!
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/kelvin-roman/)  
-[![Twitter](https://twitter.com/kelvroman)  
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kelvin-roman/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/kelvroman)  
 
 ---
