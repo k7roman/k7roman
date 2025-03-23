@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Roman 👋  
 
-<!--
-**k7roman/k7roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer 
 
-Here are some ideas to get you started:
+I build **scalable, high-performance applications** using modern web technologies. With experience in **.NET, Angular, and React**, I work on **microservices, Kubernetes, Kafka, and CI/CD pipelines** to create efficient and secure systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about **software architecture, clean code, and automation**, I also mentor developers and lead teams in best practices.  
+
+---
+
+## 🔧 Tech Stack & Tools  
+
+### **Frontend**  
+- **Vue | Angular | React**  
+- **Microfrontends | SignalR for real-time updates**  
+
+### **Backend**  
+- **.NET 4 - 8 | Python | Php | Nodejs** 
+
+### **Cloud & DevOps**  
+- **Kubernetes | Docker | Azure Pipelines**  
+- **Kafka | Dayforce ConfigData Management**  
+- **CI/CD | SonarQube |**  
+
+---
+
+## 📈 GitHub Stats  
+![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k7roman&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k7roman&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=k7roman&theme=dark)  
+
+---
+
+## Projects  
+**[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.  
+
+Check out my repositories below for more!  
+
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/kelvin-roman/)  
+[![Twitter](https://twitter.com/kelvroman)  
+
+---
