@@ -35,8 +35,8 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ---
 
 ## Projects  
-**[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
-**[MiruMind](https://mirumind.com)** - Mental Health Companion
+- **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
+- **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
 
 Check out my repositories below for more!  
 
