@@ -11,10 +11,15 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ## Tech Stack & Tools  
 
 ### **Frontend**  
-- **Vue | Angular | React**
+- Vue
+- Angular
+- React
 
 ### **Backend**  
-- **.NET | Python | Php | Nodejs** 
+- .NET
+- Python
+- Php
+- Nodejs 
 
 ### **Cloud & DevOps**  
 - **Kubernetes | Docker | Azure Pipelines**  
@@ -30,7 +35,8 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ---
 
 ## Projects  
-**[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.  
+**[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
+**[MiruMind](https://mirumind.com)** - Mental Health Companion
 
 Check out my repositories below for more!  
 
