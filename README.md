@@ -1,6 +1,6 @@
 # Hi, I'm Roman  
 
-Software Engineer 
+Senior Software Engineer 
 
 I build **scalable, high-performance applications** using modern web technologies. With experience in **.NET, Angular, and React**, I work on **microservices, Kubernetes, Kafka, and CI/CD pipelines** to create efficient and secure systems.  
 
