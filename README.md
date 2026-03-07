@@ -37,6 +37,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ## Projects  
 - **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
 - **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
+- **[ApplyFirst](https://applyfirst.io) - Real time job alerts and ATS optimized resume generator Chrome Extension
 
 Check out my repositories below for more!  
 
