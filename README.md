@@ -1,6 +1,6 @@
 # Hi, I'm Roman  
 
-Senior Software Engineer 
+Senior Software Engineer | Machine Learning Engineer
 
 I build **scalable, high-performance applications** using modern web technologies. With experience in **.NET, Angular, and React**, I work on **microservices, Kubernetes, Kafka, and CI/CD pipelines** to create efficient and secure systems.  
 
@@ -16,8 +16,8 @@ Passionate about **software architecture, clean code, and automation**, I also m
 - React
 
 ### **Backend**  
-- .NET
 - Python
+- .NET
 - Php
 - Nodejs 
 
@@ -37,7 +37,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ## Projects  
 - **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
 - **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
-- **[ApplyFirst](https://applyfirst.io) - Real time job alerts and ATS optimized resume generator Chrome Extension
+- **[ApplyFirst](https://applyfirst.io)** - Real time job alerts and ATS optimized resume generator Chrome Extension
 
 Check out my repositories below for more!  
 
