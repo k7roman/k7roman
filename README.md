@@ -1,6 +1,6 @@
 # Hi, I'm Roman  
 
-Senior Software Engineer | Machine Learning Engineer
+Senior Software Engineer | Machine Learning Engineer | Founder, [Daraja AI](https://daraja.ai)
 
 I build **scalable, high-performance applications** using modern web technologies. With experience in **.NET, Angular, and React**, I work on **microservices, Kubernetes, Kafka, and CI/CD pipelines** to create efficient and secure systems.  
 
@@ -11,20 +11,13 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ## Tech Stack & Tools  
 
 ### **Frontend**  
-- Vue
-- Angular
-- React
+- Vue, Angular, React
 
 ### **Backend**  
-- Python
-- .NET
-- Php
-- Nodejs 
+- Python, .NET, Php, Nodejs 
 
 ### **Cloud & DevOps**  
-- **Kubernetes | Docker | Azure Pipelines**  
-- **Kafka | Dapr**  
-- **CI/CD | SonarQube**  
+- Kubernetes, Docker, Azure Pipelines, Kafka, Dapr
 
 ---
 
@@ -35,6 +28,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ---
 
 ## Projects  
+- **[Daraja AI](https://daraja.ai)** — Pan-African AI platform. 23 languages. Translation, voice, medical imaging, enterprise agents.
 - **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
 - **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
 - **[ApplyFirst](https://applyfirst.io)** - Real time job alerts and ATS optimized resume generator Chrome Extension
