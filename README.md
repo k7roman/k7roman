@@ -8,22 +8,17 @@ Passionate about **software architecture, clean code, and automation**, I also m
 
 ---
 
-## Tech Stack & Tools  
+## Tech Stack
 
-### **Frontend**  
-- Vue, Angular, React
-
-### **Backend**  
-- Python, .NET, Php, Nodejs 
-
-### **Cloud & DevOps**  
-- Kubernetes, Docker, Azure Pipelines, Kafka, Dapr
-
----
-
-## GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k7roman&layout=compact&theme=radical)  
+**AI / ML** - PyTorch, ONNX, HuggingFace, VITS, Transformer architectures, model training from scratch
+ 
+**Backend** - .NET 8, Python, FastAPI, Node.js, PHP
+ 
+**Frontend** - Vue, Nuxt 3, Angular, React, Tailwind CSS
+ 
+**Infrastructure** - Docker, Kubernetes, Hetzner, Cloudflare, Redis, Qdrant, PostgreSQL
+ 
+**Cloud & DevOps** - Azure Pipelines, CI/CD, SonarQube, Kafka, Dapr
 
 ---
 
