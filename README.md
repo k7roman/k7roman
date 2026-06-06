@@ -1,10 +1,18 @@
-# Hi, I'm Roman  
+# Hi, I'm Roman
 
-Senior Software Engineer | Machine Learning Engineer | Founder, [Daraja AI](https://daraja.ai)
-
-I build **scalable, high-performance applications** using modern web technologies. With experience in **.NET, Angular, and React**, I work on **microservices, Kubernetes, Kafka, and CI/CD pipelines** to create efficient and secure systems.  
-
-Passionate about **software architecture, clean code, and automation**, I also mentor developers and lead teams in best practices.  
+**Senior Software Engineer | Machine Learning Engineer | Founder, Daraja AI**
+ 
+I build scalable, high-performance systems and AI infrastructure.
+ 
+---
+ 
+## What I'm Building
+ 
+**[Daraja AI](https://daraja.ai)** - AI Infrastructure for Africa, in Real Time
+- **Babel** - Multilingual AI across 23 languages
+- **MedScan** - AI-powered medical screening (brain tumours, cervical cancer, diabetic retinopathy)
+- **Enterprise Intelligence** - AI agents for government, healthcare, education, finance, and logistics
+- **Master of One** - C# code generation model with proprietary training methodology
 
 ---
 
