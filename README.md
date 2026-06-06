@@ -28,7 +28,7 @@ Passionate about **software architecture, clean code, and automation**, I also m
 ---
 
 ## Projects  
-- **[Daraja AI](https://daraja.ai)** — Pan-African AI platform. 23 languages. Translation, voice, medical imaging, enterprise agents.
+- **[Daraja AI](https://daraja.ai)** - Pan-African AI platform. 23 languages. Translation, voice, medical imaging, enterprise agents.
 - **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections.
 - **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
 - **[ApplyFirst](https://applyfirst.io)** - Real time job alerts and ATS optimized resume generator Chrome Extension
