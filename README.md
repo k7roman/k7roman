@@ -18,16 +18,12 @@ I build scalable, high-performance systems and AI infrastructure.
 
 ## Tech Stack
 
-**AI / ML** - PyTorch, ONNX, HuggingFace, VITS, Transformer architectures, model training from scratch
- 
-**Backend** - .NET 8, Python, FastAPI, Node.js, PHP
- 
-**Frontend** - Vue, Nuxt 3, Angular, React, Tailwind CSS
- 
-**Infrastructure** - Docker, Kubernetes, Hetzner, Cloudflare, Redis, Qdrant, PostgreSQL
- 
-**Cloud & DevOps** - Azure Pipelines, CI/CD, SonarQube, Kafka, Dapr
-
+- **AI / ML** - PyTorch, ONNX, HuggingFace, VITS, Transformer architectures, model training from scratch
+- **Backend** - .NET 8, Python, FastAPI, Node.js, PHP
+- **Frontend** - Vue, Nuxt 3, Angular, React, Tailwind CSS
+- **Infrastructure** - Docker, Kubernetes, Hetzner, Cloudflare, Redis, Qdrant, PostgreSQL
+- **Cloud & DevOps** - Azure Pipelines, CI/CD, SonarQube, Kafka, Dapr
+  
 ---
 
 ## Projects  
@@ -36,7 +32,7 @@ I build scalable, high-performance systems and AI infrastructure.
 - **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion
 - **[ApplyFirst](https://applyfirst.io)** - Real time job alerts and ATS optimized resume generator Chrome Extension
 
-Check out my repositories below for more!  
+Check out my repositories below for more!
 
 ---
 
