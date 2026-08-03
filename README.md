@@ -30,7 +30,7 @@ I build scalable, high-performance systems and AI infrastructure.
 - **[Daraja AI](https://daraja.ai)** - Pan-African AI platform. 23 languages. Translation, voice, medical imaging, enterprise agents.
 - **[ApplyFirst](https://applyfirst.io)** - Real time job alerts and ATS optimized resume generator Chrome Extension
 - **[iVoting](https://ivoting.co.ke)** – A universal voting platform for secure, global elections. (**Discontinued in 2026**)
-- **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion (**Discontinued 2026**)
+- **[MiruMind](https://mirumind.com)** - AI Powered Mental Health Companion (**Discontinued in 2026**)
 
 
 Check out my repositories below for more!
