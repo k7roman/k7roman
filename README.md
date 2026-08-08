@@ -1,6 +1,6 @@
 # Hi, I'm Roman
 
-**Software Engineer | Machine Learning Engineer | Founder, Daraja AI**
+**Software Engineer | Machine Learning Engineer | Founder, [Daraja AI](daraja.ai)**
  
 I build scalable, high-performance systems and AI infrastructure.
  
