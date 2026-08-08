@@ -21,7 +21,7 @@ I build scalable, high-performance systems and AI infrastructure.
 ## Tech Stack
 
 - **AI / ML** - PyTorch, ONNX, HuggingFace, VITS, Transformer architectures, model training from scratch
-- **Backend** - .NET 8, Python, FastAPI, Node.js, PHP
+- **Backend** - .NET, Python, FastAPI, Node.js, PHP
 - **Frontend** - Vue, Nuxt 3, Angular, React, Tailwind CSS
 - **Infrastructure** - Docker, Kubernetes, Cloudflare, Redis, Qdrant, PostgreSQL
 - **Cloud & DevOps** - Azure Pipelines, CI/CD, SonarQube, Kafka, Dapr
