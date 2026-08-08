@@ -9,7 +9,7 @@ I build scalable, high-performance systems and AI infrastructure.
 ## What I'm Building
  
 **[Daraja AI](https://daraja.ai)** - AI Infrastructure for Africa, in Real Time
-- **Babel** - Multilingual AI across 23 languages
+- **Babel** - Multilingual AI across 23 languages (Available on [Chat](daraja.ai/chat) and [Translate](daraja.ai/translate))
 - **Babel Voice** - Multilingual AI voice for Mauritian Creole, Swahili, Yoruba, Somali, Hausa & Kinyarwanda (Currently available on Translate)
 - **MedScan** - AI-powered medical screening (brain tumours, cervical cancer, breast cancer, diabetic retinopathy, stroke, chest xray)
 - **Enterprise Intelligence** - AI agents for government, healthcare, education, finance, and logistics
