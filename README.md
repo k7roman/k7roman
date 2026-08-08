@@ -14,7 +14,7 @@ I build scalable, high-performance systems and AI infrastructure.
 - **MedScan** - AI-powered medical screening (brain tumours, cervical cancer, breast cancer, diabetic retinopathy, stroke, chest xray)
 - **Enterprise Intelligence** - AI agents for government, healthcare, education, finance, and logistics
 - **Master of One** - C# code generation model with proprietary training methodology
-- **API** - [docs](daraja.ai/docs)
+- **API** - Babel is available to developers, [read more](daraja.ai/docs)
 
 ---
 
