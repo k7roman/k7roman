@@ -10,7 +10,7 @@ I build scalable, high-performance systems and AI infrastructure.
  
 **[Daraja AI](https://daraja.ai)** - AI Infrastructure for Africa, in Real Time
 - **Babel** - Multilingual AI across 23 languages
-- **MedScan** - AI-powered medical screening (brain tumours, cervical cancer, diabetic retinopathy, stroke)
+- **MedScan** - AI-powered medical screening (brain tumours, cervical cancer, breast cancer, diabetic retinopathy, stroke)
 - **Enterprise Intelligence** - AI agents for government, healthcare, education, finance, and logistics
 - **Master of One** - C# code generation model with proprietary training methodology
 
