@@ -4,7 +4,7 @@
  
 I build scalable, high-performance systems and AI infrastructure.
 
-Check out my [portfolio](https://kelvinroman.com)
+Check out my [portfolio](https://kelvinroman.com).
  
 ---
  
