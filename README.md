@@ -1,8 +1,10 @@
 # Hi, I'm Roman
 
-**Software Engineer | Machine Learning Engineer | Founder, [Daraja AI](https://daraja.ai) | [Portfolio](https://kelvinroman.com)**
+**Software Engineer | Machine Learning Engineer | Founder, [Daraja AI](https://daraja.ai)**
  
 I build scalable, high-performance systems and AI infrastructure.
+
+[Portfolio](https://kelvinroman.com)
  
 ---
  
