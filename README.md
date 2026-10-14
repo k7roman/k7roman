@@ -11,6 +11,7 @@ Check out my [portfolio](https://kelvinroman.com).
 ## What I'm Building
  
 **[Daraja AI](https://daraja.ai)** - AI Infrastructure for Africa, in Real Time
+- **[Babel-Forge](https://daraja.ai/babel-forge)** - training and building custom built LLMs for organisations, governments and businesses. 
 - **Babel** - Multilingual AI across 23 languages (Available on [Chat](https://daraja.ai/chat), [Translate](https://daraja.ai/translate) and [Telegram](https://t.me/DarajaAIBot))
 - **[Babel-Asaro](https://daraja.ai/babel-asaro)** - is the first multilingual reasoning AI built specifically for African languages — the first model to combine chain-of-thought reasoning with support for multiple African languages at once. 
 - **Rafiki** - Multilingual AI voice for Mauritian Creole, Swahili, Yoruba, Somali, Hausa & Kinyarwanda (Currently available on [Translate](https://daraja.ai/translate) and [Rafiki](https://daraja.ai/rafiki))
