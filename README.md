@@ -12,6 +12,7 @@ Check out my [portfolio](https://kelvinroman.com).
  
 **[Daraja AI](https://daraja.ai)** - AI Infrastructure for Africa, in Real Time
 - **Babel** - Multilingual AI across 23 languages (Available on [Chat](https://daraja.ai/chat), [Translate](https://daraja.ai/translate) and [Telegram](https://t.me/DarajaAIBot))
+- **[Babel-Asaro](https://daraja.ai/babel-asaro)** - is the first multilingual reasoning AI built specifically for African languages — the first model to combine chain-of-thought reasoning with support for multiple African languages at once. 
 - **Rafiki** - Multilingual AI voice for Mauritian Creole, Swahili, Yoruba, Somali, Hausa & Kinyarwanda (Currently available on [Translate](https://daraja.ai/translate) and [Rafiki](https://daraja.ai/rafiki))
 - **MedScan** - AI-powered medical screening - brain tumours, cervical cancer, breast cancer, diabetic retinopathy, stroke, chest xray (Available to organizations)
 - **Enterprise Intelligence** - AI agents for government, healthcare, education, finance, and logistics (Available to organizations)
